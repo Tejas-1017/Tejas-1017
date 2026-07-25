@@ -60,6 +60,22 @@ Engineer Specs:
 
 ---
 
+### 🏆 HONORS & NATIONAL / INTERNATIONAL ACHIEVEMENTS
+
+| Rank / Honor | Event / Competition | Organizer / Venue | Category |
+| :--- | :--- | :--- | :---: |
+| 🥇 **1st Winner** | ESYA '23 Innovation Challenge | IIIT Delhi | `National Innovation` |
+| 🥇 **1st Winner** | Project Expo 2023 | MIT Jaipur | `Robotics & AI` |
+| 🏆 **International Winner** | Technoxian RC Electric International 2024 | World Robotics Championship | `International Robotics` |
+| 🥈 **1st Runner Up** | Virtual Robotics, MindSpark 2023 | COEP Pune | `Virtual Simulation` |
+| 🥈 **1st Runner Up** | Makers Carnival Innovation Challenge | JECRC Jaipur | `Hardware Innovation` |
+| 🥉 **2nd Runner Up** | IEEE National Level Project Expo | Chandigarh University | `IEEE National` |
+| 🥉 **2nd Runner Up** | Engineer 2k23 Project Expo | NIT Surathkal | `National Expo` |
+| 🥉 **2nd Place** | National Innovation Competition | NIT Srinagar | `National Innovation` |
+| 🥉 **3rd Place** | Makers Exhibition, Makers Carnival | JECRC Jaipur | `Hardware Exhibition` |
+
+---
+
 ### 🚀 TECH MATRIX & NEURAL STACK
 
 | Domain | Technologies & Infrastructure |
